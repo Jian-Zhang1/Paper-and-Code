@@ -1,0 +1,16 @@
+This is the code for paper "Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multi-view Learning". It contains the implementation of the Deep Generative Multi-view Model (DGMM) which was described in the paper.
+
+The code was downloaded through github.com.
+
+The paper must be cited as the following if you want to use this code in your own work.
+
+@article{du2018reconstructing,
+  title={Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multi-view Learning},
+  author={Du, Changde and Du, Changying and Huang, Lijie and He, Huiguang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2018}
+}
+
+You will find more information in README.md.
+
+Here is the original link: https://github.com/ChangdeDu/DGMM/tree/684daf6eb531cfc812bfadf72e07563295264ea2.
