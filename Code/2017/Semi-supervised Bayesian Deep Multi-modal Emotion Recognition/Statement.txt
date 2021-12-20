@@ -1,0 +1,16 @@
+This is the code for paper "Semi-supervised Bayesian Deep Multi-modal Emotion Recognition". It contains the implements the semi-supervised multi-view variational autoencoder (semiMVAE) in TensorFlow (python) which was described in the paper.
+
+The code was downloaded through github.com.
+
+The paper must be cited as the following if you want to use this code in your own work.
+
+@article{du2017semi,
+  title={Semi-supervised Bayesian Deep Multi-modal Emotion Recognition},
+  author={Du, Changde and Du, Changying and Li, Jinpeng and Zheng, Wei-long and Lu, Bao-liang and He, Huiguang},
+  journal={arXiv preprint arXiv:1704.07548},
+  year={2017}
+}
+
+You will find more information in README.md.
+
+Here is the original link: https://github.com/ChangdeDu/semiMVAE/tree/9625f21d395c1716c49d1c13d93a80b6a9c5cde4
