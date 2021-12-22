@@ -1,0 +1,25 @@
+This is the code for paper "Structured Neural Decoding With Multitask Transfer Learning of Deep Neural Network Representations". It contains the implementation of the a hierarchically structured neural decoding framework which was described in the paper.
+
+The code was downloaded through github.com.
+
+The paper must be cited as the following if you want to use this code in your own work.
+
+@article{du2020structured,
+  title={Structured Neural Decoding With Multitask Transfer Learning of Deep Neural Network Representations}, 
+  author={Du, Changde and Du, Changying and Huang, Lijie and Wang, Haibao and He, Huiguang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  year={2020},
+  pages={1-15},
+  doi={10.1109/TNNLS.2020.3028167}
+}
+
+@inproceedings{du2020conditional,
+  title={Conditional Generative Neural Decoding with Structured CNN Feature Prediction.},
+  author={Du, Changde and Du, Changying and Huang, Lijie and He, Huiguang}
+  booktitle={Proc. AAAI},
+  year={2020}
+}
+
+You will find more information in README.md.
+
+Here is the original link: https://github.com/ChangdeDu/StructuredNeuroDecoding/tree/f8402e6b0f6460cbf1a2a0c7ab9e8785ef84ac5c
