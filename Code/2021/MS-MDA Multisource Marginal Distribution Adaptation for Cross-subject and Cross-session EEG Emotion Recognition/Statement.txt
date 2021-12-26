@@ -1,0 +1,16 @@
+This is the code for paper "MS-MDA: Multisource Marginal Distribution Adaptation for Cross-subject and Cross-session EEG Emotion Recognition". It contains the implementation of the multi-source marginal distribution adaptation (MS-MDA) which was described in the paper.
+
+The code was downloaded through github.com.
+
+The paper must be cited as the following if you want to use this code in your own work.
+
+@article{chen2021ms,
+  title={MS-MDA: Multisource Marginal Distribution Adaptation for Cross-subject and Cross-session EEG Emotion Recognition},
+  author={Chen, Hao and Jin, Ming and Li, Zhunan and Fan, Cunhang and Li, Jinpeng and He, Huiguang},
+  journal={arXiv preprint arXiv:2107.07740},
+  year={2021}
+}
+
+You will find more information in README.md.
+
+Here is the original link: https://github.com/VoiceBeer/MS-MDA/tree/5a2b1c46a9647148dff9bbb5c00db47e8c3c9379
