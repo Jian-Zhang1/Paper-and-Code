@@ -19,5 +19,12 @@ Here is the list of the papers with codes:
 In README.md, papers from Prof. Huiguang He were classified according to the field of research of the paper.
 
 Emotion Recognition:
-  ["A prototype-based SPD matrix network for domain adaptation EEG emotion recognition"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/A%20prototype-based%20SPD%20matrix%20network%20for%20domain%20adaptation%20EEG%20emotion%20recognition.pdf)
+
+ 1.["A prototype-based SPD matrix network for domain adaptation EEG emotion recognition"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/A%20prototype-based%20SPD%20matrix%20network%20for%20domain%20adaptation%20EEG%20emotion%20recognition.pdf)
+  
+  
+  U-Net:
+  
+ 1.["Boundary Aware U-Net for Retinal Layers Segmentation in Optical Coherence Tomography Images(2021)"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Boundary%20Aware%20U-Net%20for%20Retinal%20Layers%20Segmentation%20in%20Optical%20Coherence%20Tomography%20Images.pdf)
+ 2.["CSU-Net A Context Spatial U-Net for Accurate Blood Vessel Segmentation in Fundus Images(2021)"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/CSU-Net%20A%20Context%20Spatial%20U-Net%20for%20Accurate%20Blood%20Vessel%20Segmentation%20in%20Fundus%20Images.pdf)
 
