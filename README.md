@@ -16,3 +16,8 @@ Here is the list of the papers with codes:
 7. "MS-MDA Multisource Marginal Distribution Adaptation for Cross-subject and Cross-session EEG Emotion Recognition"(2021). [Paper](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/MS-MDA%20Multisource%20Marginal%20Distribution%20Adaptation%20for%20Cross-subject%20and%20Cross-session%20EEG%20Emotion%20Recognition.pdf) [Code](https://github.com/Jian-Zhang1/Paper-and-Code/tree/main/Code/2021/MS-MDA%20Multisource%20Marginal%20Distribution%20Adaptation%20for%20Cross-subject%20and%20Cross-session%20EEG%20Emotion%20Recognition)
 
 
+In README.md, papers from Prof. Huiguang He were classified according to the field of research of the paper.
+
+Emotion Recognition:
+  ["A prototype-based SPD matrix network for domain adaptation EEG emotion recognition"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/A%20prototype-based%20SPD%20matrix%20network%20for%20domain%20adaptation%20EEG%20emotion%20recognition.pdf)
+
