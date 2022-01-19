@@ -23,7 +23,7 @@ Medical Imaging
 EEG:
 1.["A prototype-based SPD matrix network for domain adaptation EEG emotion recognition"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/A%20prototype-based%20SPD%20matrix%20network%20for%20domain%20adaptation%20EEG%20emotion%20recognition.pdf)
 
-2.["MS-MDA Multisource Marginal Distribution Adaptation for Cross-subject and Cross-session EEG Emotion Recognition"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/ 论文/2021/MS-MDA%20Multisource%20Marginal%20Distribution%20Adaptation%20for%20Cross-subject%20and%20Cross-session%20EEG%20Emotion%20Recognition.pdf)
+2.["MS-MDA Multisource Marginal Distribution Adaptation for Cross-subject and Cross-session EEG Emotion Recognition"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/MS-MDA%20Multisource%20Marginal%20Distribution%20Adaptation%20for%20Cross-subject%20and%20Cross-session%20EEG%20Emotion%20Recognition.pdf)
 
 fMRI:
  1.["Multi-subject data augmentation for target subject semantic decoding with deep multi-view adversarial learning"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-subject%20data%20augmentation%20for%20target%20subject%20semantic%20decoding%20with%20deep%20multi-view%20adversarial%20learning.pdf)
