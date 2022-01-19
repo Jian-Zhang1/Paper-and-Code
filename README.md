@@ -32,7 +32,7 @@ EEG:
 
 5.["Multisource Transfer Learning for Cross-Subject EEG Emotion Recognition"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Multisource%20Transfer%20Learning%20for%20Cross-Subject%20EEG%20Emotion%20Recognition.pdf)
 
-6.["he Lasting Effects of Low-Frequency Repetitive Transcranial Magnetic Stimulation on Resting State EEG in Healthy Subjects"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/The%20Lasting%20Effects%20of%20Low-Frequency%20Repetitive%20Transcranial%20Magnetic%20Stimulation%20on%20Resting%20State%20EEG%20in%20Healthy%20Subjects.pdf)
+6.["The Lasting Effects of Low-Frequency Repetitive Transcranial Magnetic Stimulation on Resting State EEG in Healthy Subjects"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/The%20Lasting%20Effects%20of%20Low-Frequency%20Repetitive%20Transcranial%20Magnetic%20Stimulation%20on%20Resting%20State%20EEG%20in%20Healthy%20Subjects.pdf)
 
 fMRI:
 
@@ -40,7 +40,7 @@ fMRI:
  
  2.["Reorganization of rich-clubs in functional brain networks during propofol-induced unconsciousness and natural sleep"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Reorganization%20of%20rich-clubs%20in%20functional%20brain%20networks%20during%20propofol-induced%20unconsciousness%20and%20natural%20sleep.pdf)
  
- 3.["Transition and Dynamic Reconfiguration of Whole-Brain Network in Major Depressive Disorder"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Transition%20and%20Dynamic%20Reconfiguration%20of%20Whole-Brain%20Network%20in%20Major%20Depressive%20Disorder.pdf)
+ 3.["Transition and Dynamic Reconfiguration of Whole-Brain Network in Major Depressive Disorder"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Transition%20and%20Dynamic%20Reconfiguration%20of%20Whole-Brain%20Network%20in%20Major%20Depressive%20Disorder.pdf)
 
 CT & X-ray:
 
@@ -86,7 +86,7 @@ CNN
 
 1.["Multi-task contrastive learning for automatic CT and X-ray diagnosis of COVID-19"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-task%20contrastive%20learning%20for%20automatic%20CT%20and%20X-ray%20diagnosis%20of%20COVID-19.pdf)
 
-2.["A CNN -based comparing network for the detection of steady-state visual evoked potential responses"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/A%20CNN%20-based%20comparing%20network%20for%20the%20detection%20of%20steady-state%  20visual%20evoked%20potential%20responses.pdf)
+2.["A CNN -based comparing network for the detection of steady-state visual evoked potential responses"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/A%20CNN%20-based%20comparing%20network%20for%20the%20detection%20of%20steady-state%20visual%20evoked%20potential%20responses.pdf)
 
 3.["A Transfer Learning Framework for RSVP-based Brain Computer Interface"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/A%20Transfer%20Learning%20Framework%20for%20RSVP-based%20Brain%20Computer%20Interface.pdf)
 
