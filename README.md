@@ -32,9 +32,15 @@ EEG:
 
 5.["Multisource Transfer Learning for Cross-Subject EEG Emotion Recognition"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Multisource%20Transfer%20Learning%20for%20Cross-Subject%20EEG%20Emotion%20Recognition.pdf)
 
+6.["he Lasting Effects of Low-Frequency Repetitive Transcranial Magnetic Stimulation on Resting State EEG in Healthy Subjects"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/The%20Lasting%20Effects%20of%20Low-Frequency%20Repetitive%20Transcranial%20Magnetic%20Stimulation%20on%20Resting%20State%20EEG%20in%20Healthy%20Subjects.pdf)
+
 fMRI:
 
  1.["Multi-subject data augmentation for target subject semantic decoding with deep multi-view adversarial learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-subject%20data%20augmentation%20for%20target%20subject%20semantic%20decoding%20with%20deep%20multi-view%20adversarial%20learning.pdf)
+ 
+ 2.["Reorganization of rich-clubs in functional brain networks during propofol-induced unconsciousness and natural sleep"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Reorganization%20of%20rich-clubs%20in%20functional%20brain%20networks%20during%20propofol-induced%20unconsciousness%20and%20natural%20sleep.pdf)
+ 
+ 3.["Transition and Dynamic Reconfiguration of Whole-Brain Network in Major Depressive Disorder"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Transition%20and%20Dynamic%20Reconfiguration%20of%20Whole-Brain%20Network%20in%20Major%20Depressive%20Disorder.pdf)
 
 CT & X-ray:
 
@@ -43,7 +49,7 @@ CT & X-ray:
 
 ERP:
 
-1.["Target Detection Using Ternary Classification During a Rapid Serial Visual Presentation Task Using Magnetoencephalography Data"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Target%20Detection%20Using%20Ternary%20Classification%20During%20a%20Rapid%20Serial%20Visual%20Presentation%20Task%20Using%20Magnetoencephalography%20Data.pdf)
+1.["Target Detection Using Ternary Classification During a Rapid Serial Visual Presentation Task Using Magnetoencephalography Data"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Target%20Detection%20Using%20Ternary%20Classification%20During%20a%20Rapid%20Serial%20Visual%20Presentation%20Task%20Using%20Magnetoencephalography%20Data.pdf)
 
 
 Emotion Recognition:
@@ -68,6 +74,8 @@ U-Net:
  
  1.["Multimodal deep generative adversarial models for scalable doubly semi-supervised learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multimodal%20deep%20generative%20adversarial%20models%20for%20scalable%20doubly%20semi-supervised%20learning.pdf)
  
+ 2.["Semi-supervised cross-modal image generation with generative adversarial networks"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Semi-supervised%20cross-modal%20image%20generation%20with%20generative%20adversarial%20networks.pdf)
+ 
  
 Semantic Decoding
  
@@ -77,14 +85,22 @@ Semantic Decoding
 CNN
 
 1.["Multi-task contrastive learning for automatic CT and X-ray diagnosis of COVID-19"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-task%20contrastive%20learning%20for%20automatic%20CT%20and%20X-ray%20diagnosis%20of%20COVID-19.pdf)
+
 2.["A CNN -based comparing network for the detection of steady-state visual evoked potential responses"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/A%20CNN%20-based%20comparing%20network%20for%20the%20detection%20of%20steady-state%  20visual%20evoked%20potential%20responses.pdf)
+
 3.["A Transfer Learning Framework for RSVP-based Brain Computer Interface"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/A%20Transfer%20Learning%20Framework%20for%20RSVP-based%20Brain%20Computer%20Interface.pdf)
+
 4.["Conditional Generative Neural Decoding with Structured CNN Feature Prediction"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Conditional%20Generative%20Neural%20Decoding%20with%20Structured%20CNN%20Feature%20Prediction.pdf)
+
 5.["Deep Channel-Correlation Network for Motor Imagery Decoding From the Same Limb"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Deep%20Channel-Correlation%20Network%20for%20Motor%20Imagery%20Decoding%20From%20the%20Same%20Limb.pdf)
-6.["Reducing Calibration Efforts in RSVP Tasks With Multi-Source Adversarial Domain Adaptation"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Reducing%20Calibration%20Efforts%20in%20RSVP%20Tasks%20With%20Multi-Source%20Adversarial%20Domain%20Adaptation.pdf)
+
+6.["Reducing Calibration Efforts in RSVP Tasks With Multi-Source Adversarial Domain Adaptation"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Reducing%20Calibration%20Efforts%20in%20RSVP%20Tasks%20With%20Multi-Source%20Adversarial%20Domain%20Adaptation.pdf)
+
+
 
 DNN
 1.["Dynamical Channel Pruning by Conditional Accuracy Change for Deep Neural Networks"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Dynamical%20Channel%20Pruning%20by%20Conditional%20Accuracy%20Change%20for%20Deep%20Neural%20Networks.pdf)
 
+2.["Structured Neural Decoding With Multitask Transfer Learning of Deep Neural Network Representations"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Structured%20Neural%20Decoding%20With%20Multitask%20Transfer%20Learning%20of%20Deep%20Neural%20Network%20Representations.pdf)
 
 Motor imagery
