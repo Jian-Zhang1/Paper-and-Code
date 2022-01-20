@@ -118,7 +118,7 @@ DNN
 
 3.["Brain Encoding and Decoding in fMRI with Bidirectional Deep Generative Models"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Brain%20Encoding%20and%20Decoding%20in%20fMRI%20with%20Bidirectional%20Deep%20Generative%20Models.pdf)
 
-4.["Learning What and Where An Interpretable Neural Encoding Model"(2019)]("https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Learning_What_and_Where_An_Interpretable_Neural_Encoding_Model.pdf")
+4.["Learning What and Where An Interpretable Neural Encoding Model"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Learning_What_and_Where_An_Interpretable_Neural_Encoding_Model.pdf)
 
 5.["Reconstructing Perceived Images From Human Brain Activities With Bayesian Deep Multiview Learning"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Reconstructing%20Perceived%20Images%20From%20Human%20Brain%20Activities%20With%20Bayesian%20Deep%20Multiview%20Learning.pdf)
 
