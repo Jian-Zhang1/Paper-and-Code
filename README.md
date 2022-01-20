@@ -38,6 +38,8 @@ EEG:
 
 8.["EEG-Based Emotion Recognition with Similarity Learning Network"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/EEG-Based%20Emotion%20Recognition%20with%20Similarity%20Learning%20Network.pdf)
 
+9.["Multisource Transfer Learning for Cross- Subject EEG Emotion Recognition"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Multisource%20Transfer%20Learning%20for%20Cross-%20Subject%20EEG%20Emotion%20Recognition.pdf)
+
 fMRI:
 
  1.["Multi-subject data augmentation for target subject semantic decoding with deep multi-view adversarial learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-subject%20data%20augmentation%20for%20target%20subject%20semantic%20decoding%20with%20deep%20multi-view%20adversarial%20learning.pdf)
@@ -115,6 +117,10 @@ DNN
 2.["Structured Neural Decoding With Multitask Transfer Learning of Deep Neural Network Representations"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Structured%20Neural%20Decoding%20With%20Multitask%20Transfer%20Learning%20of%20Deep%20Neural%20Network%20Representations.pdf)
 
 3.["Brain Encoding and Decoding in fMRI with Bidirectional Deep Generative Models"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Brain%20Encoding%20and%20Decoding%20in%20fMRI%20with%20Bidirectional%20Deep%20Generative%20Models.pdf)
+
+4.["Learning What and Where An Interpretable Neural Encoding Model"(2019)]("https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Learning_What_and_Where_An_Interpretable_Neural_Encoding_Model.pdf")
+
+5.["Reconstructing Perceived Images From Human Brain Activities With Bayesian Deep Multiview Learning"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Reconstructing%20Perceived%20Images%20From%20Human%20Brain%20Activities%20With%20Bayesian%20Deep%20Multiview%20Learning.pdf)
 
 
 FCN(Fully Convolutional Network)
