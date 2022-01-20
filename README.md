@@ -34,6 +34,10 @@ EEG:
 
 6.["The Lasting Effects of Low-Frequency Repetitive Transcranial Magnetic Stimulation on Resting State EEG in Healthy Subjects"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/The%20Lasting%20Effects%20of%20Low-Frequency%20Repetitive%20Transcranial%20Magnetic%20Stimulation%20on%20Resting%20State%20EEG%20in%20Healthy%20Subjects.pdf)
 
+7.["EEG-Based Emotion Recognition with Prototype-Based Data Representation"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/EEG-Based%20Emotion%20Recognition%20with%20Prototype-Based%20Data%20Representation.pdf)
+
+8.["EEG-Based Emotion Recognition with Similarity Learning Network"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/EEG-Based%20Emotion%20Recognition%20with%20Similarity%20Learning%20Network.pdf)
+
 fMRI:
 
  1.["Multi-subject data augmentation for target subject semantic decoding with deep multi-view adversarial learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-subject%20data%20augmentation%20for%20target%20subject%20semantic%20decoding%20with%20deep%20multi-view%20adversarial%20learning.pdf)
@@ -45,7 +49,10 @@ fMRI:
 CT & X-ray:
 
 1.["Multi-task contrastive learning for automatic CT and X-ray diagnosis of COVID-19"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-task%20contrastive%20learning%20for%20automatic%20CT%20and%20X-ray%20diagnosis%20of%20COVID-19.pdf)
+
 2.["3D Shape Reconstruction of Lumbar Vertebra From Two X-ray Images and a CT Model"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/3D%20Shape%20Reconstruction%20of%20Lumbar%20Vertebra%20From%20Two%20X-ray%20Images%20and%20a%20CT%20Model.pdf)
+
+3.["3D Shape Reconstruction of Lumbar Vertebra from Two X-ray Images and a CT Model"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/3D%20Shape%20Reconstruction%20of%20Lumbar%20Vertebra%20from%20Two%20X-ray%20Images%20and%20a%20CT%20Model.pdf)
 
 ERP:
 
@@ -69,12 +76,16 @@ U-Net:
  
 2.["CSU-Net A Context Spatial U-Net for Accurate Blood Vessel Segmentation in Fundus Images(2021)"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/CSU-Net%20A%20Context%20Spatial%20U-Net%20for%20Accurate%20Blood%20Vessel%20Segmentation%20in%20Fundus%20Images.pdf)
 
+3.["Dual Encoding U-Net for Retinal Vessel Segmentation"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Dual%20Encoding%20U-Net%20for%20Retinal%20Vessel%20Segmentation.pdf)
+
 
  Multimodal Fusion
  
  1.["Multimodal deep generative adversarial models for scalable doubly semi-supervised learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multimodal%20deep%20generative%20adversarial%20models%20for%20scalable%20doubly%20semi-supervised%20learning.pdf)
  
  2.["Semi-supervised cross-modal image generation with generative adversarial networks"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Semi-supervised%20cross-modal%20image%20generation%20with%20generative%20adversarial%20networks.pdf)
+ 
+ 3.["Doubly Semi-supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Doubly%20Semi-supervised%20Multimodal%20Adversarial%20Learning%20for%20Classification%2C%20Generation%20and%20Retrieval.pdf)
  
  
 Semantic Decoding
@@ -102,5 +113,12 @@ DNN
 1.["Dynamical Channel Pruning by Conditional Accuracy Change for Deep Neural Networks"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Dynamical%20Channel%20Pruning%20by%20Conditional%20Accuracy%20Change%20for%20Deep%20Neural%20Networks.pdf)
 
 2.["Structured Neural Decoding With Multitask Transfer Learning of Deep Neural Network Representations"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Structured%20Neural%20Decoding%20With%20Multitask%20Transfer%20Learning%20of%20Deep%20Neural%20Network%20Representations.pdf)
+
+3.["Brain Encoding and Decoding in fMRI with Bidirectional Deep Generative Models"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Brain%20Encoding%20and%20Decoding%20in%20fMRI%20with%20Bidirectional%20Deep%20Generative%20Models.pdf)
+
+
+FCN(Fully Convolutional Network)
+
+1.["Automatic brain labeling via multi-atlas guided fully convolutional networks"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Automatic%20brain%20labeling%20via%20multi-atlas%20guided%20fully%20convolutional%20networks.pdf)
 
 Motor imagery
