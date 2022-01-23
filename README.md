@@ -67,6 +67,10 @@ fMRI:
  11.["Diffusion Tractography and Graph Theory Analysis Reveal the Disrupted Rich-Club Organization of White Matter Structural Networks in Early Tourette Syndrome Children"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Diffusion%20Tractography%20and%20Graph%20Theory%20Analysis%20Reveal%20the%20Disrupted%20Rich-Club%20Organization%20of%20White%20Matter%20Structural%20Networks%20in%20Early%20Tourette%20Syndrome%20Children.pdf)
  
  12.["Disrupted topological organization of structural networks revealed by probabilistic diffusion tractography in Tourette syndrome children"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Disrupted%20topological%20organization%20of%20structural%20networks%20revealed%20by%20probabilistic%20diffusion%20tractography%20in%20Tourette%20syndrome%20children.pdf)
+ 
+ 13.["Sharing deep generative representation for perceived image reconstruction from human brain activity"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Sharing%20deep%20generative%20representation%20for%20perceived%20image%20reconstruction%20from%20human%20brain%20activity.pdf)
+ 
+ 14.["The diagnostic value of high-frequency power-based diffusion-weighted imaging in prediction of neuroepithelial tumour grading"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/The%20diagnostic%20value%20of%20high-frequency%20power-based%20diffusion-weighted%20imaging%20in%20prediction%20of%20neuroepithelial%20tumour%20grading.pdf)
 
 CT & X-ray:
 
@@ -112,6 +116,10 @@ U-Net:
  4.["Semi-supervised Deep Generative Modelling of Incomplete Multi-Modality Emotional Data"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Semi-supervised%20Deep%20Generative%20Modelling%20of%20Incomplete%20Multi-Modality%20Emotional%20Data.pdf)
  
  5.["Multi-modal multiple kernel learning for accurate identification of Tourette syndrome children"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Multi-modal%20multiple%20kernel%20learning%20for%20accurate%20identification%20of%20Tourette%20syndrome%20children.pdf)
+ 
+ 6.["Multi-threshold White Matter Structural Networks Fusion for Accurate Diagnosis of Tourette Syndrome Children"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Multi-threshold%20White%20Matter%20Structural%20Networks%20Fusion%20for%20Accurate%20Diagnosis%20of%20Tourette%20Syndrome%20Children.pdf)
+ 
+ 7.["Semi-supervised Bayesian Deep Multi-modal Emotion Recognition"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Semi-supervised%20Bayesian%20Deep%20Multi-modal%20Emotion%20Recognition.pdf)
  
  
 Semantic Decoding
