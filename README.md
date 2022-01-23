@@ -47,6 +47,12 @@ fMRI:
  2.["Reorganization of rich-clubs in functional brain networks during propofol-induced unconsciousness and natural sleep"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Reorganization%20of%20rich-clubs%20in%20functional%20brain%20networks%20during%20propofol-induced%20unconsciousness%20and%20natural%20sleep.pdf)
  
  3.["Transition and Dynamic Reconfiguration of Whole-Brain Network in Major Depressive Disorder"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Transition%20and%20Dynamic%20Reconfiguration%20of%20Whole-Brain%20Network%20in%20Major%20Depressive%20Disorder.pdf)
+ 
+ 4.["Combining Disrupted and Discriminative Topological Properties of Functional Connectivity Networks as Neuroimaging Biomarkers for Accurate Diagnosis of Early Tourette Syndrome Children"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Combining%20Disrupted%20and%20Discriminative%20Topological%20Properties%20of%20Functional%20Connectivity%20Networks%20as%20Neuroimaging%  20Biomarkers%20for%20Accurate%20Diagnosis%20of%20Early%20Tourette%20Syndrome%20Children.pdf)
+ 
+ 5.["Comparison of NREM sleep and intravenous sedation through local information processing and whole brain network to explore the mechanism of general anesthesia"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Comparison%20of%20NREM%20sleep%20and%20intravenous%20sedation%20through%20local%20information%20processing%20and%20whole%20brain%20network%20to%20explore%20the%20mechanism%20of%20general%20anesthesia%20.pdf)
+ 
+ 6.["Identifying the Best Machine Learning Algorithms for Brain Tumor Segmentation, Progression Assessment, and Overall Survival Prediction in the BRATS Challenge"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Identifying%20the%20Best%20Machine%20Learning%20Algorithms%20for%20Brain%20Tumor%20Segmentation%2C%20Progression%20Assessment%2C%20and%20Overall%20Survival%20Prediction%20in%20the%20BRATS%20Challenge.pdf)
 
 CT & X-ray:
 
@@ -109,6 +115,10 @@ CNN
 
 6.["Reducing Calibration Efforts in RSVP Tasks With Multi-Source Adversarial Domain Adaptation"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Reducing%20Calibration%20Efforts%20in%20RSVP%20Tasks%20With%20Multi-Source%20Adversarial%20Domain%20Adaptation.pdf)
 
+7.["Hierarchical Convolutional Neural Networks for EEG-Based Emotion Recognition"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Hierarchical%20Convolutional%20Neural%20Networks%20for%20EEG-Based%20Emotion%20Recognition.pdf)
+
+8.["Improving Image Classification Performance with Automatically Hierarchical Label Clustering"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Improving%20Image%20Classification%20Performance%20with%20Automatically%20Hierarchical%20Label%20Clustering.pdf)
+
 
 
 DNN
@@ -126,5 +136,9 @@ DNN
 FCN(Fully Convolutional Network)
 
 1.["Automatic brain labeling via multi-atlas guided fully convolutional networks"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Automatic%20brain%20labeling%20via%20multi-atlas%20guided%20fully%20convolutional%20networks.pdf)
+
+RNN
+
+1.["Improving EEG-Based Motor Imagery Classification via Spatial and Temporal Recurrent Neural Networks"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Improving%20EEG-Based%20Motor%20Imagery%20Classification%20via%20Spatial%20and%20Temporal%20Recurrent%20Neural%20Networks.pdf)
 
 Motor imagery
