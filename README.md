@@ -20,7 +20,7 @@ In README.md, papers from Prof. Huiguang He were classified according to the fie
 
 There are three classifications: Medical Imaging, Deep Learning, and Multi-modality.
 
-Medical Imaging:
+A. Medical Imaging:
 
 (1) EEG
 
@@ -88,7 +88,7 @@ Medical Imaging:
 
 
  
-Deep Learning:
+B. Deep Learning:
 
 (1) U-Net
   
@@ -142,7 +142,7 @@ Deep Learning:
 1.["Improving EEG-Based Motor Imagery Classification via Spatial and Temporal Recurrent Neural Networks"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Improving%20EEG-Based%20Motor%20Imagery%20Classification%20via%20Spatial%20and%20Temporal%20Recurrent%20Neural%20Networks.pdf)
 
 
-Multi-modality:
+C. Multi-modality:
  
  1.["Multimodal deep generative adversarial models for scalable doubly semi-supervised learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multimodal%20deep%20generative%20adversarial%20models%20for%20scalable%20doubly%20semi-supervised%20learning.pdf)
  
