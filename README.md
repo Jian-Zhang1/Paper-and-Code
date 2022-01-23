@@ -57,6 +57,12 @@ fMRI:
  6.["Identifying the Best Machine Learning Algorithms for Brain Tumor Segmentation, Progression Assessment, and Overall Survival Prediction in the BRATS Challenge"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Identifying%20the%20Best%20Machine%20Learning%20Algorithms%20for%20Brain%20Tumor%20Segmentation%2C%20Progression%20Assessment%2C%20and%20Overall%20Survival%20Prediction%20in%20the%20BRATS%20Challenge.pdf)
  
  7.["Multi-label Semantic Decoding from Human Brain Activity"2018](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Multi-label%20Semantic%20Decoding%20from%20Human%20Brain%20Activity.pdf)
+ 
+ 8.["Alteration of gray matter texture features over the whole brain in medication-overuse headache using a 3-dimentional texture analysis"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Alteration%20of%20gray%20matter%20texture%20features%20over%20the%20whole%20brain%20in%20medication-overuse%20headache%20using%20a%203-dimentional%20texture%20analysis.pdf)
+ 
+ 9.["Altered Spontaneous Brain Activity in Children with Early Tourette Syndrome a Resting-state fMRI Study"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Altered%20Spontaneous%20Brain%20Activity%20in%20Children%20with%20Early%20Tourette%20Syndrome%20a%20Resting-state%20fMRI%20Study.pdf)
+ 
+ 
 
 CT & X-ray:
 
