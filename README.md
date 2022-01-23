@@ -85,17 +85,9 @@ ERP:
 1.["Target Detection Using Ternary Classification During a Rapid Serial Visual Presentation Task Using Magnetoencephalography Data"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Target%20Detection%20Using%20Ternary%20Classification%20During%20a%20Rapid%20Serial%20Visual%20Presentation%20Task%20Using%20Magnetoencephalography%20Data.pdf)
 
 
-Emotion Recognition:
-
-1.["A prototype-based SPD matrix network for domain adaptation EEG emotion recognition"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/A%20prototype-based%20SPD%20matrix%20network%20for%20domain%20adaptation%20EEG%20emotion%20recognition.pdf)
  
-2.["MS-MDA Multisource Marginal Distribution Adaptation for Cross-subject and Cross-session EEG Emotion Recognition"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/MS-MDA%20Multisource%20Marginal%20Distribution%20Adaptation%20for%20Cross-subject%20and%20Cross-session%20EEG%20Emotion%20Recognition.pdf)
+Deep Learning
 
-3.["Domain Adaptation for EEG Emotion Recognition Based on Latent Representation Similarity"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Domain%20Adaptation%20for%20EEG%20Emotion%20Recognition%20Based%20on%20Latent%20Representation%20Similarity.pdf)
-
-4.["Multisource Transfer Learning for Cross-Subject EEG Emotion Recognition"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Multisource%20Transfer%20Learning%20for%20Cross-Subject%20EEG%20Emotion%20Recognition.pdf)
-
-  
 U-Net:
   
 1.["Boundary Aware U-Net for Retinal Layers Segmentation in Optical Coherence Tomography Images(2021)"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Boundary%20Aware%20U-Net%20for%20Retinal%20Layers%20Segmentation%20in%20Optical%20Coherence%20Tomography%20Images.pdf)
@@ -103,29 +95,6 @@ U-Net:
 2.["CSU-Net A Context Spatial U-Net for Accurate Blood Vessel Segmentation in Fundus Images(2021)"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/CSU-Net%20A%20Context%20Spatial%20U-Net%20for%20Accurate%20Blood%20Vessel%20Segmentation%20in%20Fundus%20Images.pdf)
 
 3.["Dual Encoding U-Net for Retinal Vessel Segmentation"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Dual%20Encoding%20U-Net%20for%20Retinal%20Vessel%20Segmentation.pdf)
-
-
- Multi-modal
- 
- 1.["Multimodal deep generative adversarial models for scalable doubly semi-supervised learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multimodal%20deep%20generative%20adversarial%20models%20for%20scalable%20doubly%20semi-supervised%20learning.pdf)
- 
- 2.["Semi-supervised cross-modal image generation with generative adversarial networks"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Semi-supervised%20cross-modal%20image%20generation%20with%20generative%20adversarial%20networks.pdf)
- 
- 3.["Doubly Semi-supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Doubly%20Semi-supervised%20Multimodal%20Adversarial%20Learning%20for%20Classification%2C%20Generation%20and%20Retrieval.pdf)
- 
- 4.["Semi-supervised Deep Generative Modelling of Incomplete Multi-Modality Emotional Data"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Semi-supervised%20Deep%20Generative%20Modelling%20of%20Incomplete%20Multi-Modality%20Emotional%20Data.pdf)
- 
- 5.["Multi-modal multiple kernel learning for accurate identification of Tourette syndrome children"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Multi-modal%20multiple%20kernel%20learning%20for%20accurate%20identification%20of%20Tourette%20syndrome%20children.pdf)
- 
- 6.["Multi-threshold White Matter Structural Networks Fusion for Accurate Diagnosis of Tourette Syndrome Children"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Multi-threshold%20White%20Matter%20Structural%20Networks%20Fusion%20for%20Accurate%20Diagnosis%20of%20Tourette%20Syndrome%20Children.pdf)
- 
- 7.["Semi-supervised Bayesian Deep Multi-modal Emotion Recognition"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Semi-supervised%20Bayesian%20Deep%20Multi-modal%20Emotion%20Recognition.pdf)
- 
- 
-Semantic Decoding
- 
- 1.["Multi-subject data augmentation for target subject semantic decoding with deep multi-view adversarial learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-subject%20data%20augmentation%20for%20target%20subject%20semantic%20decoding%20with%20deep%20multi-view%20adversarial%20learning.pdf)
-
 
 CNN
 
@@ -169,4 +138,19 @@ RNN
 
 1.["Improving EEG-Based Motor Imagery Classification via Spatial and Temporal Recurrent Neural Networks"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Improving%20EEG-Based%20Motor%20Imagery%20Classification%20via%20Spatial%20and%20Temporal%20Recurrent%20Neural%20Networks.pdf)
 
-Motor imagery
+
+ Multi-modal
+ 
+ 1.["Multimodal deep generative adversarial models for scalable doubly semi-supervised learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multimodal%20deep%20generative%20adversarial%20models%20for%20scalable%20doubly%20semi-supervised%20learning.pdf)
+ 
+ 2.["Semi-supervised cross-modal image generation with generative adversarial networks"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Semi-supervised%20cross-modal%20image%20generation%20with%20generative%20adversarial%20networks.pdf)
+ 
+ 3.["Doubly Semi-supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Doubly%20Semi-supervised%20Multimodal%20Adversarial%20Learning%20for%20Classification%2C%20Generation%20and%20Retrieval.pdf)
+ 
+ 4.["Semi-supervised Deep Generative Modelling of Incomplete Multi-Modality Emotional Data"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Semi-supervised%20Deep%20Generative%20Modelling%20of%20Incomplete%20Multi-Modality%20Emotional%20Data.pdf)
+ 
+ 5.["Multi-modal multiple kernel learning for accurate identification of Tourette syndrome children"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Multi-modal%20multiple%20kernel%20learning%20for%20accurate%20identification%20of%20Tourette%20syndrome%20children.pdf)
+ 
+ 6.["Multi-threshold White Matter Structural Networks Fusion for Accurate Diagnosis of Tourette Syndrome Children"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Multi-threshold%20White%20Matter%20Structural%20Networks%20Fusion%20for%20Accurate%20Diagnosis%20of%20Tourette%20Syndrome%20Children.pdf)
+ 
+ 7.["Semi-supervised Bayesian Deep Multi-modal Emotion Recognition"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Semi-supervised%20Bayesian%20Deep%20Multi-modal%20Emotion%20Recognition.pdf)
