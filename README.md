@@ -50,7 +50,7 @@ fMRI:
  
  3.["Transition and Dynamic Reconfiguration of Whole-Brain Network in Major Depressive Disorder"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Transition%20and%20Dynamic%20Reconfiguration%20of%20Whole-Brain%20Network%20in%20Major%20Depressive%20Disorder.pdf)
  
- 4.["Combining Disrupted and Discriminative Topological Properties of Functional Connectivity Networks as Neuroimaging Biomarkers for Accurate Diagnosis of Early Tourette Syndrome Children"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Combining%20Disrupted%20and%20Discriminative%20Topological%20Properties%20of%20Functional%20Connectivity%20Networks%20as%20Neuroimaging%  20Biomarkers%20for%20Accurate%20Diagnosis%20of%20Early%20Tourette%20Syndrome%20Children.pdf)
+ 4.["Combining Disrupted and Discriminative Topological Properties of Functional Connectivity Networks as Neuroimaging Biomarkers for Accurate Diagnosis of Early Tourette Syndrome Children"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Combining%20Disrupted%20and%20Discriminative%20Topological%20Properties%20of%20Functional%20Connectivity%20Networks%20as%20Neuroimaging%20Biomarkers%20for%20Accurate%20Diagnosis%20of%20Early%20Tourette%20Syndrome%20Children.pdf)
  
  5.["Comparison of NREM sleep and intravenous sedation through local information processing and whole brain network to explore the mechanism of general anesthesia"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Comparison%20of%20NREM%20sleep%20and%20intravenous%20sedation%20through%20local%20information%20processing%20and%20whole%20brain%20network%20to%20explore%20the%20mechanism%20of%20general%20anesthesia%20.pdf)
  
