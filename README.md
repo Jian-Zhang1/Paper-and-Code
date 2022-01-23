@@ -16,7 +16,10 @@ Here is the list of the papers with codes:
 7. "MS-MDA Multisource Marginal Distribution Adaptation for Cross-subject and Cross-session EEG Emotion Recognition"(2021). [Paper](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/MS-MDA%20Multisource%20Marginal%20Distribution%20Adaptation%20for%20Cross-subject%20and%20Cross-session%20EEG%20Emotion%20Recognition.pdf) [Code](https://github.com/Jian-Zhang1/Paper-and-Code/tree/main/Code/2021/MS-MDA%20Multisource%20Marginal%20Distribution%20Adaptation%20for%20Cross-subject%20and%20Cross-session%20EEG%20Emotion%20Recognition)
 
 
+
+
 In README.md, papers from Prof. Huiguang He were classified according to the field of research of the paper.
+
 
 There are three classifications: Medical Imaging, Deep Learning, and Multi-modality.
 
@@ -116,8 +119,6 @@ B. Deep Learning:
 
 8.["Improving Image Classification Performance with Automatically Hierarchical Label Clustering"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Improving%20Image%20Classification%20Performance%20with%20Automatically%20Hierarchical%20Label%20Clustering.pdf)
 
-
-
 (3) DNN
 
 1.["Dynamical Channel Pruning by Conditional Accuracy Change for Deep Neural Networks"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Dynamical%20Channel%20Pruning%20by%20Conditional%20Accuracy%20Change%20for%20Deep%20Neural%20Networks.pdf)
@@ -132,7 +133,6 @@ B. Deep Learning:
 
 6.["Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multi-view Learning"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Reconstructing%20Perceived%20Images%20from%20Human%20Brain%20Activities%20with%20Bayesian%20Deep%20Multi-view%20Learning.pdf)
 
-
 (4) FCN(Fully Convolutional Network)
 
 1.["Automatic brain labeling via multi-atlas guided fully convolutional networks"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Automatic%20brain%20labeling%20via%20multi-atlas%20guided%20fully%20convolutional%20networks.pdf)
@@ -140,6 +140,7 @@ B. Deep Learning:
 (5) RNN
 
 1.["Improving EEG-Based Motor Imagery Classification via Spatial and Temporal Recurrent Neural Networks"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Improving%20EEG-Based%20Motor%20Imagery%20Classification%20via%20Spatial%20and%20Temporal%20Recurrent%20Neural%20Networks.pdf)
+
 
 
 C. Multi-modality:
