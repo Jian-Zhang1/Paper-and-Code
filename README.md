@@ -62,7 +62,11 @@ fMRI:
  
  9.["Altered Spontaneous Brain Activity in Children with Early Tourette Syndrome a Resting-state fMRI Study"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Altered%20Spontaneous%20Brain%20Activity%20in%20Children%20with%20Early%20Tourette%20Syndrome%20a%20Resting-state%20fMRI%20Study.pdf)
  
+ 10.["Altered functional connectivity within and between the default model network and the visual network in primary open-angle glaucoma a resting-state fMRI study"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Altered%20functional%20connectivity%20within%20and%20between%20the%20default%20model%20network%20and%20the%20visual%20network%20in%20primary%20open-angle%20glaucoma%20a%20resting-state%20fMRI%20study.pdf)
  
+ 11.["Diffusion Tractography and Graph Theory Analysis Reveal the Disrupted Rich-Club Organization of White Matter Structural Networks in Early Tourette Syndrome Children"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Diffusion%20Tractography%20and%20Graph%20Theory%20Analysis%20Reveal%20the%20Disrupted%20Rich-Club%20Organization%20of%20White%20Matter%20Structural%20Networks%20in%20Early%20Tourette%20Syndrome%20Children.pdf)
+ 
+ 12.["Disrupted topological organization of structural networks revealed by probabilistic diffusion tractography in Tourette syndrome children"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Disrupted%20topological%20organization%20of%20structural%20networks%20revealed%20by%20probabilistic%20diffusion%20tractography%20in%20Tourette%20syndrome%20children.pdf)
 
 CT & X-ray:
 
@@ -106,6 +110,8 @@ U-Net:
  3.["Doubly Semi-supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Doubly%20Semi-supervised%20Multimodal%20Adversarial%20Learning%20for%20Classification%2C%20Generation%20and%20Retrieval.pdf)
  
  4.["Semi-supervised Deep Generative Modelling of Incomplete Multi-Modality Emotional Data"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Semi-supervised%20Deep%20Generative%20Modelling%20of%20Incomplete%20Multi-Modality%20Emotional%20Data.pdf)
+ 
+ 5.["Multi-modal multiple kernel learning for accurate identification of Tourette syndrome children"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/Multi-modal%20multiple%20kernel%20learning%20for%20accurate%20identification%20of%20Tourette%20syndrome%20children.pdf)
  
  
 Semantic Decoding
