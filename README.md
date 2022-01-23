@@ -18,9 +18,11 @@ Here is the list of the papers with codes:
 
 In README.md, papers from Prof. Huiguang He were classified according to the field of research of the paper.
 
-Medical Imaging
+There are three classifications: Medical Imaging, Deep Learning, and Multi-modality.
 
-EEG:
+Medical Imaging:
+
+(1) EEG
 
 1.["A prototype-based SPD matrix network for domain adaptation EEG emotion recognition"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/A%20prototype-based%20SPD%20matrix%20network%20for%20domain%20adaptation%20EEG%20emotion%20recognition.pdf)
 
@@ -42,7 +44,7 @@ EEG:
 
 10.["Predicting Epileptic Seizures from Intracranial EEG Using LSTM-Based Multi-task Learning"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Predicting%20Epileptic%20Seizures%20from%20Intracranial%20EEG%20Using%20LSTM-Based%20Multi-task%20Learning.pdf)
 
-fMRI:
+(2) MRI
 
  1.["Multi-subject data augmentation for target subject semantic decoding with deep multi-view adversarial learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-subject%20data%20augmentation%20for%20target%20subject%20semantic%20decoding%20with%20deep%20multi-view%20adversarial%20learning.pdf)
  
@@ -72,7 +74,7 @@ fMRI:
  
  14.["The diagnostic value of high-frequency power-based diffusion-weighted imaging in prediction of neuroepithelial tumour grading"(2017)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2017/The%20diagnostic%20value%20of%20high-frequency%20power-based%20diffusion-weighted%20imaging%20in%20prediction%20of%20neuroepithelial%20tumour%20grading.pdf)
 
-CT & X-ray:
+(3) CT & X-ray
 
 1.["Multi-task contrastive learning for automatic CT and X-ray diagnosis of COVID-19"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-task%20contrastive%20learning%20for%20automatic%20CT%20and%20X-ray%20diagnosis%20of%20COVID-19.pdf)
 
@@ -80,15 +82,15 @@ CT & X-ray:
 
 3.["3D Shape Reconstruction of Lumbar Vertebra from Two X-ray Images and a CT Model"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/3D%20Shape%20Reconstruction%20of%20Lumbar%20Vertebra%20from%20Two%20X-ray%20Images%20and%20a%20CT%20Model.pdf)
 
-ERP:
+(4) ERP
 
 1.["Target Detection Using Ternary Classification During a Rapid Serial Visual Presentation Task Using Magnetoencephalography Data"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Target%20Detection%20Using%20Ternary%20Classification%20During%20a%20Rapid%20Serial%20Visual%20Presentation%20Task%20Using%20Magnetoencephalography%20Data.pdf)
 
 
  
-Deep Learning
+Deep Learning:
 
-U-Net:
+(1) U-Net
   
 1.["Boundary Aware U-Net for Retinal Layers Segmentation in Optical Coherence Tomography Images(2021)"](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Boundary%20Aware%20U-Net%20for%20Retinal%20Layers%20Segmentation%20in%20Optical%20Coherence%20Tomography%20Images.pdf)
  
@@ -96,7 +98,7 @@ U-Net:
 
 3.["Dual Encoding U-Net for Retinal Vessel Segmentation"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Dual%20Encoding%20U-Net%20for%20Retinal%20Vessel%20Segmentation.pdf)
 
-CNN
+(2) CNN
 
 1.["Multi-task contrastive learning for automatic CT and X-ray diagnosis of COVID-19"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-task%20contrastive%20learning%20for%20automatic%20CT%20and%20X-ray%20diagnosis%20of%20COVID-19.pdf)
 
@@ -116,7 +118,8 @@ CNN
 
 
 
-DNN
+(3) DNN
+
 1.["Dynamical Channel Pruning by Conditional Accuracy Change for Deep Neural Networks"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Dynamical%20Channel%20Pruning%20by%20Conditional%20Accuracy%20Change%20for%20Deep%20Neural%20Networks.pdf)
 
 2.["Structured Neural Decoding With Multitask Transfer Learning of Deep Neural Network Representations"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Structured%20Neural%20Decoding%20With%20Multitask%20Transfer%20Learning%20of%20Deep%20Neural%20Network%20Representations.pdf)
@@ -130,16 +133,16 @@ DNN
 6.["Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multi-view Learning"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Reconstructing%20Perceived%20Images%20from%20Human%20Brain%20Activities%20with%20Bayesian%20Deep%20Multi-view%20Learning.pdf)
 
 
-FCN(Fully Convolutional Network)
+(4) FCN(Fully Convolutional Network)
 
 1.["Automatic brain labeling via multi-atlas guided fully convolutional networks"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Automatic%20brain%20labeling%20via%20multi-atlas%20guided%20fully%20convolutional%20networks.pdf)
 
-RNN
+(5) RNN
 
 1.["Improving EEG-Based Motor Imagery Classification via Spatial and Temporal Recurrent Neural Networks"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Improving%20EEG-Based%20Motor%20Imagery%20Classification%20via%20Spatial%20and%20Temporal%20Recurrent%20Neural%20Networks.pdf)
 
 
- Multi-modal
+Multi-modality:
  
  1.["Multimodal deep generative adversarial models for scalable doubly semi-supervised learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multimodal%20deep%20generative%20adversarial%20models%20for%20scalable%20doubly%20semi-supervised%20learning.pdf)
  
