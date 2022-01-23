@@ -40,6 +40,8 @@ EEG:
 
 9.["Multisource Transfer Learning for Cross- Subject EEG Emotion Recognition"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Multisource%20Transfer%20Learning%20for%20Cross-%20Subject%20EEG%20Emotion%20Recognition.pdf)
 
+10.["Predicting Epileptic Seizures from Intracranial EEG Using LSTM-Based Multi-task Learning"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Predicting%20Epileptic%20Seizures%20from%20Intracranial%20EEG%20Using%20LSTM-Based%20Multi-task%20Learning.pdf)
+
 fMRI:
 
  1.["Multi-subject data augmentation for target subject semantic decoding with deep multi-view adversarial learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multi-subject%20data%20augmentation%20for%20target%20subject%20semantic%20decoding%20with%20deep%20multi-view%20adversarial%20learning.pdf)
@@ -53,6 +55,8 @@ fMRI:
  5.["Comparison of NREM sleep and intravenous sedation through local information processing and whole brain network to explore the mechanism of general anesthesia"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Comparison%20of%20NREM%20sleep%20and%20intravenous%20sedation%20through%20local%20information%20processing%20and%20whole%20brain%20network%20to%20explore%20the%20mechanism%20of%20general%20anesthesia%20.pdf)
  
  6.["Identifying the Best Machine Learning Algorithms for Brain Tumor Segmentation, Progression Assessment, and Overall Survival Prediction in the BRATS Challenge"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Identifying%20the%20Best%20Machine%20Learning%20Algorithms%20for%20Brain%20Tumor%20Segmentation%2C%20Progression%20Assessment%2C%20and%20Overall%20Survival%20Prediction%20in%20the%20BRATS%20Challenge.pdf)
+ 
+ 7.["Multi-label Semantic Decoding from Human Brain Activity"2018](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Multi-label%20Semantic%20Decoding%20from%20Human%20Brain%20Activity.pdf)
 
 CT & X-ray:
 
@@ -87,13 +91,15 @@ U-Net:
 3.["Dual Encoding U-Net for Retinal Vessel Segmentation"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Dual%20Encoding%20U-Net%20for%20Retinal%20Vessel%20Segmentation.pdf)
 
 
- Multimodal Fusion
+ Multi-modal
  
  1.["Multimodal deep generative adversarial models for scalable doubly semi-supervised learning"(2021)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2021/Multimodal%20deep%20generative%20adversarial%20models%20for%20scalable%20doubly%20semi-supervised%20learning.pdf)
  
  2.["Semi-supervised cross-modal image generation with generative adversarial networks"(2020)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2020/Semi-supervised%20cross-modal%20image%20generation%20with%20generative%20adversarial%20networks.pdf)
  
  3.["Doubly Semi-supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Doubly%20Semi-supervised%20Multimodal%20Adversarial%20Learning%20for%20Classification%2C%20Generation%20and%20Retrieval.pdf)
+ 
+ 4.["Semi-supervised Deep Generative Modelling of Incomplete Multi-Modality Emotional Data"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Semi-supervised%20Deep%20Generative%20Modelling%20of%20Incomplete%20Multi-Modality%20Emotional%20Data.pdf)
  
  
 Semantic Decoding
@@ -131,6 +137,8 @@ DNN
 4.["Learning What and Where An Interpretable Neural Encoding Model"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Learning_What_and_Where_An_Interpretable_Neural_Encoding_Model.pdf)
 
 5.["Reconstructing Perceived Images From Human Brain Activities With Bayesian Deep Multiview Learning"(2019)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2019/Reconstructing%20Perceived%20Images%20From%20Human%20Brain%20Activities%20With%20Bayesian%20Deep%20Multiview%20Learning.pdf)
+
+6.["Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multi-view Learning"(2018)](https://github.com/Jian-Zhang1/Paper-and-Code/blob/main/Paper/2018/Reconstructing%20Perceived%20Images%20from%20Human%20Brain%20Activities%20with%20Bayesian%20Deep%20Multi-view%20Learning.pdf)
 
 
 FCN(Fully Convolutional Network)
